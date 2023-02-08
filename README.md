@@ -3,6 +3,7 @@
 Angular gifs search application using Giphy's API
 Implementing Angular modules, components and services, localstorage management and more.
 
+Deploy: https://gifsappdev.netlify.app/#
 
 ![gifsApp](https://user-images.githubusercontent.com/62584398/217405301-8c0c65b9-477a-40d6-a766-fd86b298bbf5.gif)
 
