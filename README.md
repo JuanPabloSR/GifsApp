@@ -7,8 +7,7 @@ Deploy: https://gifsappdev.netlify.app/#
 
 ![gifsApp3](https://user-images.githubusercontent.com/62584398/217548508-23a55c49-e7d9-44b2-8ab7-aba2f4a96083.gif)
 
-
-![gifsApp3](https://user-images.githubusercontent.com/62584398/217548691-34860108-0201-4ef7-9fdc-b2e3703c962c.gif)
+![gifsApp](https://user-images.githubusercontent.com/62584398/217548882-e72b1ab4-c946-4df9-a121-efb8ac8f5c6a.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
