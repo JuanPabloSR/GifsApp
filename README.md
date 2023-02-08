@@ -5,8 +5,10 @@ Implementing Angular modules, components and services, localstorage management a
 
 Deploy: https://gifsappdev.netlify.app/#
 
-![gifsApp](https://user-images.githubusercontent.com/62584398/217405301-8c0c65b9-477a-40d6-a766-fd86b298bbf5.gif)
+![gifsApp3](https://user-images.githubusercontent.com/62584398/217548508-23a55c49-e7d9-44b2-8ab7-aba2f4a96083.gif)
 
+
+![gifsApp3](https://user-images.githubusercontent.com/62584398/217548691-34860108-0201-4ef7-9fdc-b2e3703c962c.gif)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
